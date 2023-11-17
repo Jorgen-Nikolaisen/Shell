@@ -1,0 +1,3 @@
+D:/C_programs/Windows_Shell/cmake-build-debug/CMakeFiles/Windows_Shell.dir
+D:/C_programs/Windows_Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C_programs/Windows_Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
